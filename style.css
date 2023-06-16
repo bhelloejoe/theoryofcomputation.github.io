@@ -46,8 +46,9 @@ header{
 }
 .navbar .link{
     display:flex;
-    gap:5rem;
+    grid-gap:5rem;
 	list-style:none;
+	justify-content:space-between;
 	
 }
 .navbar .link li a{
@@ -540,7 +541,7 @@ header{
 	border-radius:50%;
 	box-shadow:25px 25px 50px rgba(0,0,0,0.125);
 }
-@media(max-width:850px){
+@media(max-width:900px){
     .navbar .link,
     .navbar .start{
         display:none;
