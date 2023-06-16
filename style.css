@@ -570,15 +570,7 @@ header{
     .navbar .logo a{
         font-size:5vw;
 	}
-	#topic small{
-		font-size:3vw;
-	}
-	#topic h2{
-		font-size:5vw;
-	}
-	#topic p{
-		font-size:3vw;
-	}
+	
 	#topic .topic-title{
 		display:flex;
 		flex-direction:column;
