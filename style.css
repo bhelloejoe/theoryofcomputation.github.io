@@ -500,13 +500,28 @@ header{
 	width:100%;
 	height:100vh;
 }
-#computability .txtss2{
+.txtss2{
 	width:100%;
 	max-width:1400px;
 	background-color:#ebf0ec;
 	padding:2rem;
 }
-#computability .txtss2 h2{
+.txtss2 h2{
+	color:orange;
+}
+.txtss3{
+	width:100%;
+	max-width:1400px;
+	background-color:black;
+	padding:2rem;
+}
+.txtss3 p{
+	color:white;
+}
+.txtss3 h1{
+	color:white;
+}
+.txtss3 h2{
 	color:orange;
 }
 #member{
